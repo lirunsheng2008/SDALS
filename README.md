@@ -20,6 +20,8 @@ Please refer to ![install.md](./docs/install.md) for installation and dataset pr
 [HRSC2016] [Baidu Pan](https://pan.baidu.com/s/1guCbReb9ZpsUhMAo04Owbw) [code:dal6]
 [DOTA-ship] [Baidu Pan](https://pan.baidu.com/s/1u02CWQfRCJD0VhcPGpBdyA) [code:dal6]
 
+# weights
+You can download weights from https://share.weiyun.com/qQpG4dJP
 # Datasets structure:
 ```
 ├── images
