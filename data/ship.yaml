@@ -1,0 +1,34 @@
+# # hrsc2016-4cls
+# train: dataset/hrsc2016/images/train
+# test: dataset/hrsc2016/images/test
+# # number of classes
+# nc: 4
+# # class names
+# names: [ 'AircraftCarrier', 'Warship', 'MerchantShip', 'Submarine' ]
+
+# # hrsc2016-1cls
+# train: dataset/hrsc2016/images/train
+# test: dataset/hrsc2016/images/test
+# # number of classes
+# nc: 2
+# # class names
+# names: [ 'ship','oth' ]
+
+# fgsd2021
+train: dataset/fgsd2021/images/train
+test: dataset/fgsd2021/images/test
+# number of classes
+nc: 20
+# class names
+names: ['Air', 'Was', 'Tar', 'Oth', 'Aus', 'Whi', 'San', 'New', 'Tic', 'Bur', 
+        'Per', 'Lew', 'Sup', 'Kai', 'Hop', 'Mer', 'Fre', 'Ind', 'Ave', 'Sub']
+
+# # dota-ship
+# train: dataset/dota_ship/images/train
+# test: dataset/dota_ship/images/test
+# # number of classes
+# nc: 2 # 单类时设为2
+# # class names
+# names: ['ship','S']
+
+
